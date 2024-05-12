@@ -1,0 +1,32 @@
+{
+  "name": "simple-clock-beta",
+  "version": "1.0.2",
+  "description": "Simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "Clock Simple"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tegarhdi/simple-clock-beta.git"
+  },
+  "keywords": [
+    "simple",
+    "clock"
+  ],
+  "author": "pakdeee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tegarhdi/simple-clock-beta/issues"
+  },
+  "homepage": "https://github.com/Tegarhdi/simple-clock-beta#readme",
+  "dependencies": {
+    "availnode": "^1.0.2",
+    "code-dheryl": "^1.0.7",
+    "code-dheryldz-notepad": "^1.0.4",
+    "code-solana-checker": "^1.0.0",
+    "code-timer-tumpah": "^1.0.4",
+    "emoji-npm": "^1.0.2",
+    "tumpah-dao-web3": "^1.0.3"
+  }
+}
